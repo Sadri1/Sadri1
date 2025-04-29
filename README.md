@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Information and Technology
 - 💞️ I’m looking to collaborate on developing tasks.
 - 📫 How to reach me ...
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: i love learning new things, and get fluent at it.
 
 <!---
